@@ -25,7 +25,7 @@ N=thakhani.nextDouble();
 
   A=P*Math.pow(1+I,N);
   
-  System.out.println("The final answe is " +A);
+  System.out.println("The final answer is " +A);
 
 
 
